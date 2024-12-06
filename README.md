@@ -1,2 +1,3 @@
 # Pacman
-Pacmanb with JAVA
+Pacman with JAVA
+Next up we add AI
